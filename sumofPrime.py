@@ -17,6 +17,10 @@ for num in range(a + 1, b):
         if is_prime:
             # if the number is prime then add it to the sum of the prime numbers
             prime_sum += num
-
-# print the sum of the prime numbers
-print(f"Sum of primes between {a} and {b}: {prime_sum}")
+        
+# checks if b is greater than a or not
+if b > a:
+    print(f"Sum of primes between {a} and {b}: {prime_sum}")
+# if b is smaller then the following statement will print!!
+else :
+    print ("b should be greater than a")
