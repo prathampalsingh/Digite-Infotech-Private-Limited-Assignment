@@ -8,7 +8,7 @@ for _ in range(N):
     arr.append(element)
 
 #This line prints the entire array list
-print("Your array:", arr)
+print("Your array before sorting:", arr)
 
 # Sort the array in ascending order
 for i in range(len(arr)):
@@ -21,5 +21,7 @@ for i in range(len(arr)):
 
 # After the sorting process, this line accesses the third-smallest element in the array.
 third_smallest = arr[2]
+
+print("Your array after sorting:", arr)
 
 print("The 3rd smallest number is:", third_smallest)
