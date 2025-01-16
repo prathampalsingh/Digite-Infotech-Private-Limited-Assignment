@@ -14,7 +14,7 @@ This problem involves finding the sum of all prime numbers that lie between two 
 4. **Summation:** Iterate through the range of numbers from `a` to `b`. For each number, check if it's prime using the `is_prime()` function. If it's prime, add it to the running sum.
 5. **Output:** Display the calculated sum of all prime numbers between `a` and `b`.
 
-![sumOfPrime](https://github.com/user-attachments/assets/6f867667-0007-4f1e-8f9d-a0ec5301ff86)
+![sumOfPrime](https://github.com/user-attachments/assets/2ff1c3da-3d85-4834-a0c8-fcab694994c7)
 
 ***3. Find the 3rd smallest number in an array.***
 
