@@ -26,4 +26,5 @@ This problem involves finding the third-smallest number within an array of integ
 2.**Sorting:** Sort the array in ascending order. You can use a suitable sorting algorithm like Selection Sort, Insertion Sort, or a more efficient algorithm like Merge Sort or Quick Sort.
 3.**Output:** Display the third-smallest number.
 
-![thridSmallestElement](https://github.com/user-attachments/assets/cc66ca24-fd4d-442e-ac6e-31834825ae8e)
+![thridSmallestElement](https://github.com/user-attachments/assets/9120fbd0-5033-4cac-8912-154bba6f314b)
+
